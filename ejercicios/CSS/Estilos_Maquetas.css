@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin: 0px;
+	
+	/*margin-left: 0px;
+	margin-right: 0px;
+	margin-top:0px;*/
+	
+}
+
+
+
+#Logo {
+	background-color: #FF0004;
+	height: 90px;
+	width: auto;
+}
+#Menu {
+	background-color: #00DBFF;
+	height: 36px;
+	width: auto;
+}
+#Titulo {
+	background-color: #82E5A0;
+	height: 200px;
+	width: auto;
+}
+#Principal {
+	background-color: #14DEE1;
+	height: auto;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#Cuerpo_01 {
+	background-color: #212121;
+	float: left;
+	height: 100px;
+	width: 680px;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+#Imagen_01 {
+	background-color: #4114FB;
+	float: right;
+	height: 100px;
+	width: 290px;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#Cuerpo_02 {
+	background-color: #000000;
+	float: left;
+	height: 110px;
+	width: 680px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+#Imagen_02 {
+	background-color: #04BBF3;
+	float: right;
+	height: 110px;
+	width: 290px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}

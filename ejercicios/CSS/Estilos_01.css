@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color:#C5F3F5;
+	
+}
+
+h2{
+	font:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	color:#012DFC;
+	font-size:18px;	
+}
+
+p{
+	text-align:justify;
+	font:Calibri, Arial, "Times New Roman";
+}
+
+.texto_1{
+	font:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	color:#003CE0;
+	font-weight:bold;
+	font-size:14px;  /*  Comentario  */
+	font-style:italic;
+}
+
+
+
+
+
+
+
+

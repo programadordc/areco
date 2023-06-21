@@ -1,0 +1,102 @@
+@charset "utf-8";
+
+
+header{
+	background:#0F93B4;
+
+}
+
+h1{
+	color:#FFFFFF;
+	
+}
+
+footer{
+	background:#00CACD;
+	
+	
+}.container-fluid .navbar-header .navbar-brand {
+	background-color: #34CDFC;
+	color: #FFFFFF;
+}
+.container-fluid .navbar-header .navbar-brand:hover {
+	background-color: #03569A;
+	color: #FFFFFF;
+}
+.nav.navbar-nav .active a {
+	background-color: #34CDFC;
+	color: #FFFFFF;
+}
+.nav.navbar-nav li a {
+	background-color: #34CDFC;
+	color: #FFFFFF;
+}
+.nav.navbar-nav .active a:hover {
+	background-color: #03569A;
+	color: #FFFFFF;
+}
+.nav.navbar-nav li a:hover {
+	background-color: #03569A;
+	color: #FFFFFF;
+}
+.nav.navbar-nav .dropdown .dropdown-menu {
+	background-color: #34CDFC;
+}
+.navbar.navbar-default {
+	background-color: #34CDFC;
+}
+.lista1 {
+	list-style-image: url(../vinetas/check.png);
+
+}
+h3 {
+	color: #34CDFC;
+	font-family: amaranth;
+	font-style: normal;
+	font-weight: 500;
+}
+footer {
+	background-color: #000000;
+}
+
+
+.video_responsive{
+	height:0;
+	padding-bottom: 56.25%;
+	padding-top: 30px;
+	position: relative;
+}
+
+.video_responsive iframe, .video_responsive object, .video_responsive embed, .video_responsive video{
+	height: 100%;
+	left:0;
+	top: 0;
+	width:100%;
+	position:absolute;
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
